@@ -1,0 +1,32 @@
+﻿{
+	"Sources/Methods/create_sample_records.4dm": {
+		"left": 814,
+		"top": 229,
+		"width": 1006,
+		"height": 696
+	},
+	"Sources/Forms/TEST/method.4dm": {
+		"left": 814,
+		"top": 229,
+		"width": 1006,
+		"height": 696
+	},
+	"Sources/Forms/TEST/ObjectMethods/lb.Table_1.4dm": {
+		"left": 754,
+		"top": 247,
+		"width": 1006,
+		"height": 696
+	},
+	"Sources/Forms/TEST/ObjectMethods/Button.4dm": {
+		"left": 814,
+		"top": 229,
+		"width": 1006,
+		"height": 696
+	},
+	"Sources/Forms/TEST/ObjectMethods/Button1.4dm": {
+		"left": 814,
+		"top": 229,
+		"width": 1006,
+		"height": 696
+	}
+}

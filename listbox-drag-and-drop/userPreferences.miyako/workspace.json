@@ -1,0 +1,19 @@
+﻿{
+	"editors": [
+		{
+			"type": "form",
+			"id": 1,
+			"formName": "TEST"
+		},
+		{
+			"type": "method",
+			"id": 2147483645,
+			"codeDescriptor": {
+				"type": 2,
+				"formName": "TEST",
+				"objectName": "lb.Table_1",
+				"methodPath": "/SOURCES/Forms/TEST/ObjectMethods/lb.Table_1.4dm"
+			}
+		}
+	]
+}

@@ -1,0 +1,49 @@
+﻿{
+	"Sources/Methods/create_sample_records.4dm": {
+		"startSelection": 44,
+		"endSelection": 44,
+		"firstSelectedLine": 10,
+		"lastSelectedLine": 10,
+		"folding": [],
+		"bookmarks": [],
+		"stamp": "2021-10-15T23:39:23.534Z"
+	},
+	"Sources/Forms/TEST/method.4dm": {
+		"startSelection": 14,
+		"endSelection": 0,
+		"firstSelectedLine": 9,
+		"lastSelectedLine": 9,
+		"folding": [],
+		"bookmarks": [],
+		"stamp": "2021-10-16T00:12:30.913Z"
+	},
+	"Sources/Forms/TEST/ObjectMethods/lb.Table_1.4dm": {
+		"startSelection": 0,
+		"endSelection": 0,
+		"firstSelectedLine": 41,
+		"lastSelectedLine": 41,
+		"folding": [
+			110
+		],
+		"bookmarks": [],
+		"stamp": "2021-10-16T00:18:56.840Z"
+	},
+	"Sources/Forms/TEST/ObjectMethods/Button.4dm": {
+		"startSelection": 34,
+		"endSelection": 0,
+		"firstSelectedLine": 0,
+		"lastSelectedLine": 0,
+		"folding": [],
+		"bookmarks": [],
+		"stamp": "2021-10-16T00:12:17.581Z"
+	},
+	"Sources/Forms/TEST/ObjectMethods/Button1.4dm": {
+		"startSelection": 31,
+		"endSelection": 31,
+		"firstSelectedLine": 0,
+		"lastSelectedLine": 0,
+		"folding": [],
+		"bookmarks": [],
+		"stamp": "2021-10-16T00:12:30.922Z"
+	}
+}
